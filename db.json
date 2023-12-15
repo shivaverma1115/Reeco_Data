@@ -16,8 +16,8 @@
             "product_name": "chicken Breast Filets, Boneless matuu maMarinated 6 Ounce Raw, Invivid",
             "Brand": "Hormel Black Labelmany",
             "Price": 60.67,
-            "Quantity": 0,
-            "Total": 0,
+            "Quantity": 15,
+            "Total": 9000,
             "Status": ""
         },
         {
@@ -27,6 +27,26 @@
             "Brand": "Hormel Black Labelmany",
             "Price": 60.67,
             "Quantity": 0,
+            "Total": 0,
+            "Status": ""
+        },
+        {
+            "id":4,
+            "img": "https://res.cloudinary.com/dbbuqesjg/image/upload/v1702569240/Image/Avocado_Hass_ajhv0z.jpg",
+            "product_name": "chicken Breast Filets, Boneless matuu maMarinated 6 Ounce Raw, Invivid",
+            "Brand": "Hormel Black Labelmany",
+            "Price": 60.67,
+            "Quantity": 6,
+            "Total": 0,
+            "Status": ""
+        },
+        {
+            "id":5,
+            "img": "https://res.cloudinary.com/dbbuqesjg/image/upload/v1702569240/Image/Avocado_Hass_ajhv0z.jpg",
+            "product_name": "chicken Breast Filets, Boneless matuu maMarinated 6 Ounce Raw, Invivid",
+            "Brand": "Hormel Black Labelmany",
+            "Price": 60.67,
+            "Quantity": 10,
             "Total": 0,
             "Status": ""
         }
